@@ -15,6 +15,10 @@ main {
     line-height: 1.6;
 }
 
-footer a {
+a {
     color: #111;
+}
+
+mark {
+    background: linear-gradient(to left, #f8f8f8ff, #f8f8f800 50%, #f8f8f8ff 100%), #ffffff00 repeating-linear-gradient(178deg, #00000000, transparent 0%, rgba(255, 255, 0, 1) 5%, #00000000 10%, rgba(255, 255, 0, 1) 35%);
 }
