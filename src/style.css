@@ -19,6 +19,10 @@ a {
     color: #111;
 }
 
+p {max-width: 75ch;}
+
+h1, h2, h3, h4, h5, h6 {max-width: 60ch;}
+
 mark {
     background: linear-gradient(to left, #f8f8f8ff, #f8f8f800 50%, #f8f8f8ff 100%), #ffffff00 repeating-linear-gradient(178deg, #00000000, transparent 0%, rgba(255, 255, 0, 1) 5%, #00000000 10%, rgba(255, 255, 0, 1) 35%);
 }
